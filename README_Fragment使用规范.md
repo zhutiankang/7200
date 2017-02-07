@@ -1,9 +1,7 @@
-
-Gkoudai 代码规范
+[Fragment]规范
 ==============================================================================
 
 
-[Fragment]
 
 1:Activity里面放Fragment需要先判断savedInstanceState是否为null 如果不为null在添加新的Fragment
 
